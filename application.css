@@ -1,5 +1,6 @@
 body {
     width: 95%;
+    max-width: 1280px;
     margin: auto;
     background: url(backsite.png);
 
@@ -10,5 +11,27 @@ body {
 
 main {
     background-color: #00000073;
-    
+    padding: 10px 40px;
+    margin-top: 20px;
+    border-radius: 22px;
+}
+
+.logo{
+    text-align: center;
+    margin: 0%;
+}
+
+.full-name{ 
+    text-align: center;
+    margin: 0%;
+}
+
+.headline{
+    text-align: center;
+    margin: 0%;
+}
+
+.texto{
+    text-align: center;
+    margin: 0%;
 }
